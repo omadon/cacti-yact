@@ -153,7 +153,7 @@ sub parse_nagios_plugin_options()
 		version => $VERSION,
 		blurb   => 'Monitors ISM CGv6 statistics, outputs perf data for cacti',
 		extra   => 'Created by: Kresimir Petrovic kresimir.petrovic@gmail.com',
-		url     => 'http://code.google.com/p/nagios-cpnr-monitoring/',
+		url     => 'https://github.com/omadon/cacti-yact',
 		timeout => 15
 	);
 
