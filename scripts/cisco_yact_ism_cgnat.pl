@@ -6,7 +6,7 @@
 #                                                                                    #
 # Check ISM CGv6 health and perfromance                                              #
 #                                                                                    #
-# Create by kresimir.petrovic@gmail.com for monitoring ISM CGNAT modules             #
+# Created by kresimir.petrovic@gmail.com for monitoring ISM CGNAT modules            #
 # Originally developed to generate cacti statistics.                                 #
 # Caching was introduced to reduce number of ssh connection on the ASR9k             #
 #                                                                                    #
